@@ -1,0 +1,28 @@
+{
+  "name": "react_piracy",
+  "version": "1.0.0",
+  "description": "<!--\r  * @Author: fuzhenghao\r  * @Date: 2021-09-15 09:56:50\r  * @LastEditTime: 2021-09-15 10:03:57\r  * @LastEditors: fuzhenghao\r  * @Description: 项目介绍\r  * @FilePath: \\react_piracy\\README.md\r  * \r -->",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "parcel ./src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0polar-aurora0/react_piracy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0polar-aurora0/react_piracy/issues"
+  },
+  "homepage": "https://github.com/0polar-aurora0/react_piracy#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.15.4",
+    "@babel/core": "^7.15.5",
+    "@babel/preset-env": "^7.15.6",
+    "@babel/preset-react": "^7.14.5",
+    "babel-cli": "^6.26.0"
+  }
+}
